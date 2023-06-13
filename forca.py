@@ -33,7 +33,7 @@ X
 ===========
 A quantidade de letras são:
 """)
-
+#Usando looping (while)
 while True:
     senha = ''
     for letra in palavra:

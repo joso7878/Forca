@@ -87,7 +87,7 @@ while True:
         print("Enforcado!")
         perdeu()
         break
-
+#Adicionando logs
 logs = open("Logs.txt","w")
 logs.write("A Palavra: %s \n" % palavra)
 if erros == 5:
